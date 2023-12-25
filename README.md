@@ -1,0 +1,1 @@
+This data analysis project focuses on optimizing the occupancy rates of low-performing flights to enhance the overall profitability of an airline. Utilizing SQL and Python libraries such as pandas, matplotlib, and seaborn, the analysis explores various aspects of the airline's database, including aircraft information, airports, bookings, flights, seats, and ticket details.
